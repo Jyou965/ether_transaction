@@ -40,12 +40,15 @@ The application operates in the following steps:
 Key outcomes of the transaction are demonstrated below:
 
 The ethereum transaction:
+
 ![transaction](https://github.com/Jyou965/eth_transaction/blob/main/screen_shots/payment_detail.png)
 
 Transaction history of sender's address:
+
 ![sender](https://github.com/Jyou965/eth_transaction/blob/main/screen_shots/address_history.png)
 
 Transaction history of recipient's address:
+
 ![recipient](https://github.com/Jyou965/eth_transaction/blob/main/screen_shots/recipient_address_history.png)
 
 ---
