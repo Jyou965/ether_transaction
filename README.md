@@ -1,7 +1,7 @@
 # eth_transaction
 Challenge 19
 
-This application makes an Ethereum payment.
+This application makes an ether payment.
 
 ---
 
@@ -39,7 +39,7 @@ The application operates in the following steps:
 
 Key outcomes of the transaction are demonstrated below:
 
-The ethereum transaction:
+The ether transaction:
 
 ![transaction](https://github.com/Jyou965/eth_transaction/blob/main/screen_shots/payment_detail.png)
 
