@@ -15,7 +15,7 @@ This application makes an ether payment.
 
 * [web3](https://web3py.readthedocs.io/en/stable/) - a Python library for interacting with Ethereum.
 
-* [bip44](https://www.cs.utexas.edu/users/moore/acl2/manuals/current/manual/index-seo.php/BITCOIN____BIP44?path=3370/27092/5157/6093/9771) - Bitcoin Improvement Proposal 44. BIP44 refers to the accepted common standard to derive non segwit addresses. These addresses always begin with a 1.
+* [bip44](https://www.cs.utexas.edu/users/moore/acl2/manuals/current/manual/index-seo.php/BITCOIN____BIP44?path=3370/27092/5157/6093/9771) - Bitcoin Improvement Proposal 44. BIP44 refers to the accepted common standard to derive non segwit addresses. It converts the seed phrase to a corresponding private key that can be used to authorize transactions on a blockchain network.
 
 * [requests](https://docs.python-requests.org/en/master/) - an elegant and simple HTTP library for Python, built for human beings.
 
