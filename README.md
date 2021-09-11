@@ -1,5 +1,4 @@
 # ether_transaction
-Challenge 19
 
 This application makes an ether payment.
 
