@@ -1,4 +1,4 @@
-# eth_transaction
+# ether_transaction
 Challenge 19
 
 This application makes an ether payment.
@@ -55,6 +55,5 @@ Transaction history of recipient's address:
 
 ## Contributors
 
-Jackie You with the support of FinTech Boot Camp Staff
-
+Jackie You
 ---
